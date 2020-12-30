@@ -13,5 +13,5 @@ Includes various operations like
   9. Remove particular Element
   10. Position of Elements
   11. Search an Element
- !Image of the Interface is available in the Repository
+  Image of the Interface is available in the Repository
   
