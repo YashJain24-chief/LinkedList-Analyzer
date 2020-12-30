@@ -1,6 +1,7 @@
 # LinkedList-Analyzer
 An interface to analyse various Linked List functionalities.
 Functionalities can be analysed through button clicks
+Image of the Interface is available in the Repository
 Includes various operations like
   1. Insert
   2. Insert at Front
@@ -13,5 +14,4 @@ Includes various operations like
   9. Remove particular Element
   10. Position of Elements
   11. Search an Element
-  Image of the Interface is available in the Repository
   
