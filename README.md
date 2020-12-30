@@ -1,5 +1,5 @@
 # LinkedList-Analyzer
-An interface to analyse various Linked List functionalities.
+An interface to analyse various Linked List functionalities.\n
 Functionalities can be analysed through button clicks
 Image of the Interface is available in the Repository
 Includes various operations like
