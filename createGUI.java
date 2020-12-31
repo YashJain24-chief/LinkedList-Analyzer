@@ -100,7 +100,7 @@ class MyFrame extends Frame implements ActionListener
 		add(button[8]);
 		add(button[9]);
 		
-		//Adding ActionListener to the button, to make to respond when a Button event is generated
+		//Adding ActionListener to the button, to make it respond when a Button event is generated
 		button[0].addActionListener(this);
 		button[1].addActionListener(this);
 		button[2].addActionListener(this);
